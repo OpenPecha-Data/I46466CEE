@@ -1,0 +1,45 @@
+id: I46466CEE
+ocr_import_info:
+  timestamp: '2023-04-28T04:32:53.867406+00:00'
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.8
+  sponsor: Monlam AI
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.2
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-04-28 04:39:06.536155+00:00
+last_modified: 2023-04-28 04:39:06.536162+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W3CN8781
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW3CN8781
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: བྱིས་དུས་ཀྱི་སློབ་གསོ་གླེང་བ།
+  languages:
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.9988463266453148
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I3CN8783:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN8783
+      total_pages: 310
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I3CN8783.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9988463266453148
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
